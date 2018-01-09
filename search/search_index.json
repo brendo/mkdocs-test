@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Home\n\n\nThis is the homepage.\n\n\nNote that the navigation shows the other page title as README.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#home", 
+            "text": "This is the homepage.  Note that the navigation shows the other page title as README.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/README/", 
+            "text": "Random README title\n\n\nNote now that the Navigation title is same as the H1 for this page, not README.", 
+            "title": "Random README title"
+        }, 
+        {
+            "location": "/README/#random-readme-title", 
+            "text": "Note now that the Navigation title is same as the H1 for this page, not README.", 
+            "title": "Random README title"
+        }
+    ]
+}
